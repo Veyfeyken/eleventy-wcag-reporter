@@ -3,7 +3,7 @@
 This repository lets you create WCAG EM Reports using [Eleventy](https://www.11ty.dev/). 
 
 * Write issues as Markdown files
-* Create reports in English, Dutch, Brazilian Portuguese or Spanish
+* Create reports in English, Dutch, Brazilian Portuguese, Spanish or German
 * Automatically output a score card in the report 
 * Include your boilerplate easily, so that you can focus on describing issues
 
@@ -22,6 +22,7 @@ _This is a side project, it comes with no warranty._
 | Brazilian Portuguese |  pt-br  | Report itself, WCAG 2.1      | @brunopulis       |
 | Latinamerican Spanish |  es  | Report itself, WCAG 2.1      | @danisaurio       |
 | Dutch                |  nl     | Report itself, WCAG 2.1      | @hidde            |
+| German               |  de     | Report itself, WCAG 2.1      | @mfranzke         |
 | English              |  en     | Report itself, WCAG 2.1      | @hidde            |
 
 In progress: 
@@ -41,7 +42,7 @@ Want to contribute a language? [Create an issue](https://github.com/hidde/eleven
 7. Customise the reports: add your own logo, colors, typography and content. There is [cipsum](https://cipsum.com/) everywhere.
 8. [Create a new report](#create-a-report)
 
-From now on, you'll onlly need to run that last step: `npm run dev` or `elevent --serve`.
+From now on, you'll onlly need to run that last step: `npm run dev` or `eleventy --serve`.
 
 ## Create a report
 
