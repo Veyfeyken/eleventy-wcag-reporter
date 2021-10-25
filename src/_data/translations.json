@@ -50,7 +50,7 @@
   },
   "sample": {
     "en": "Sample",
-    "nl": "Sample",
+    "nl": "Steekproef",
     "pt-br": "Amostra",
     "es": "Muestra"
   },
@@ -87,7 +87,7 @@
   },
   "severity": {
     "en": "Severity",
-    "nl": "Ernst",
+    "nl": "Impact",
     "pt-br": "Severidade",
     "es": "Severidad"
   },
@@ -97,6 +97,10 @@
     "pt-br": "Dificuldade",
     "es": "Complejidad"
   },
+  "profile": {
+    "en": "Profile",
+    "nl": "Profiel"
+  },
   "executive_summary": {
     "en": "Executive summary",
     "nl": "Samenvatting",
@@ -104,8 +108,8 @@
     "es": "Resumen ejecutivo"
   },
   "about_this_report": {
-    "en": "About this report",
-    "nl": "Toelichting bij dit rapport",
+    "en": "Testmethodology",
+    "nl": "Testmethode",
     "pt-br": "Sobre esse relatório",
     "es": "Acerca de este informe"
   },
@@ -176,14 +180,14 @@
     "es": "Tecnologías utilizadas"
   },
   "accessibility_support_explanation": {
-    "en": "The audited website should work in at least the following browsers and assistive technologies: ",
-    "nl": "De onderzochte website zou minimaal moeten kunnen worden gebruikt in de volgende browsers en hulptechnologieën:",
+    "en": "The audited website should work in recent versions of the following browsers and assistive technologies: ",
+    "nl": "De onderzochte website zou moeten werken in recente versies van hedendaagse browsers en hulptechnologieën, bijvoorbeeld:",
     "pt-br": "O site auditado deve funcionar pelo menos nos seguintes navegadores e tecnologias assistivas: ",
     "es": "El sitio web auditado debe trabajar en al menos los siguientes navegadores y tecnologías de asistencia: "
   },
   "technologies_explanation": {
     "en": "The audited web page relies on the following technologies: ",
-    "nl": "De onderzochte maakt gebruik van de volgende technologieën: ",
+    "nl": "De onderzochte website maakt gebruik van de volgende technologieën: ",
     "pt-br": "A página da web auditada conta com as seguintes tecnologias: ",
     "es": "La página web auditada utiliza en las siguientes tecnologías: "
   },
